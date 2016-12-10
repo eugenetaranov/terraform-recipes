@@ -1,0 +1,7 @@
+- VPC using module https://github.com/eugenetaranov/terraform-modules/tree/master/tf-aws-vpc
+- ASG with ELB
+- CodeDeployment to ASG
+- mongodb replicaset
+- Lambda for snapshotting ebs data volumes
+- Redis
+- ElasticFileSystem
